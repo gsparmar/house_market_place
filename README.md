@@ -12,5 +12,5 @@ Deployed: https://house-market-place-blue.vercel.app/
 
 
 Test Credentials:
-username: gurveerparmar92@gmail.com
-password: test123
+* username: gurveerparmar92@gmail.com
+* password: test123
