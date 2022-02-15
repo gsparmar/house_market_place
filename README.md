@@ -9,3 +9,8 @@ Deployed: https://house-market-place-blue.vercel.app/
 * Once logged a user will be able to create listings 
 * View all user created listed under "My Profile"
 * All images are store with Firestore
+
+
+Test Credentials:
+username: gurveerparmar92@gmail.com
+password: test123
